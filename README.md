@@ -1,0 +1,2 @@
+# PhysicsSimulationExpansion
+This project is an expansion of bowling simulation project I did for my Physics Simulation module in my final year at Teesside University. The physics simulation code was created to simulate rigid body physics without using any in build Unreal Engine physics. I chose to expand the simulation from bowling to pool as the physics code created works quite nicely for creating a pool game out of the predetermined physics code.
